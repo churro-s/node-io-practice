@@ -1,0 +1,23 @@
+{
+  "name": "hulu-practice",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "final" : "node final.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srilankanchurro/hulu-practice.git"
+  },
+  "author": "srilankanchurro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srilankanchurro/hulu-practice/issues"
+  },
+  "homepage": "https://github.com/srilankanchurro/hulu-practice#readme",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
