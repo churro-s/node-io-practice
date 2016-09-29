@@ -1,5 +1,5 @@
 {
-  "name": "hulu-practice",
+  "name": "node-io-practice",
   "version": "1.0.0",
   "description": "Practice",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srilankanchurro/hulu-practice.git"
+    "url": "git+https://github.com/srilankanchurro/node-io-practice.git"
   },
   "author": "srilankanchurro@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/srilankanchurro/hulu-practice/issues"
+    "url": "https://github.com/srilankanchurro/node-io-practice/issues"
   },
-  "homepage": "https://github.com/srilankanchurro/hulu-practice#readme",
+  "homepage": "https://github.com/srilankanchurro/node-io-practice#readme",
   "dependencies": {
     "lodash": "^4.6.1"
   }
